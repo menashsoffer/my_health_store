@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "address": {
+      "city": "New York",
+      "street": "123 Main St",
+      "postalCode": "10001"
+    },
+    "phone": 2125551234
+  },
+  {
+    "id": 2,
+    "name": {
+      "firstName": "Jane",
+      "lastName": "Doe"
+    },
+    "email": "jane.doe@example.com",
+    "password": "password456",
+    "address": {
+      "city": "Los Angeles",
+      "street": "456 Park Ave",
+      "postalCode": "90001"
+    },
+    "phone": 2135551234
+  },
+  {
+    "id": 3,
+    "name": {
+      "firstName": "Bob",
+      "lastName": "Smith"
+    },
+    "email": "bob.smith@example.com",
+    "password": "password789",
+    "address": {
+      "city": "Chicago",
+      "street": "789 Elm St",
+      "postalCode": "60001"
+    },
+    "phone": 3125551234
+  },
+  {
+    "id": 4,
+    "name": {
+      "firstName": "Sara",
+      "lastName": "Johnson"
+    },
+    "email": "sara.johnson@example.com",
+    "password": "password101112",
+    "address": {
+      "city": "Houston",
+      "street": "1011 Oak Ln",
+      "postalCode": "77001"
+    },
+    "phone": 7135551234
+  },
+  {
+    "id": 5,
+    "name": {
+      "firstName": "Mike",
+      "lastName": "Williams"
+    },
+    "email": "mike.williams@example.com",
+    "password": "password131415",
+    "address": {
+      "city": "Phoenix",
+      "street": "1314 Elm St",
+      "postalCode": "85001"
+    },
+    "phone": 6235551234
+  },
+  {
+    "id": 6,
+    "name": {
+      "firstName": "Kate",
+      "lastName": "Brown"
+    },
+    "email": "kate.brown@example.com",
+    "password": "password161718",
+    "address": {
+      "city": "Philadelphia",
+      "street": "1617 Park Ln",
+      "postalCode": "19101"
+    },
+    "phone": 2155551234
+  },
+  {
+    "id": 7,
+    "name": {
+      "firstName": "Tom",
+      "lastName": "Davis"
+    },
+    "email": "tom.davis@example.com",
+    "password": "password192021",
+    "address": {
+      "city": "San Antonio",
+      "street": "1920 Oak Ave",
+      "postalCode": "78201"
+    },
+    "phone": 2105551234
+  },
+  {
+    "id": 8,
+    "name": {
+      "firstName": "Laura",
+      "lastName": "Miller"
+    },
+    "email": "laura.miller@example.com",
+    "password": "password222324",
+    "address": {
+      "city": "San Diego",
+      "street": "2223 Main St",
+      "postalCode": "92101"
+    },
+    "phone": 6195551234
+  },
+  {
+    "id": 9,
+    "name": {
+      "firstName": "Chris",
+      "lastName": "Wilson"
+    },
+    "email": "chris.wilson@example.com",
+    "password": "password252627",
+    "address": {
+      "city": "Denver",
+      "street": "2526 Park Ave",
+      "postalCode": "80201"
+    },
+    "phone": 3035551234
+  },
+  {
+    "id": 10,
+    "name": {
+      "firstName": "Lisa",
+      "lastName": "Anderson"
+    },
+    "email": "lisa.anderson@example.com",
+    "password": "password282930",
+    "address": {
+      "city": "Seattle",
+      "street": "2829 Oak St",
+      "postalCode": "98101"
+    },
+    "phone": 2065551234
+  }
+]
